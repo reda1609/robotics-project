@@ -1,0 +1,2 @@
+movit_robot_arm_sim:robot_arm_urdf
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/my_github/robotics-project/moveit_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/my_github/robotics-project/moveit_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ahmed/my_github/robotics-project/moveit_ws/install/setup.sh
